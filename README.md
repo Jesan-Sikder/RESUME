@@ -24,7 +24,7 @@ Self-motivated Computer Science undergraduate at Daffodil International Universi
 
 ## 🏆 Achievements
 
-- **5th Place (out of 5,000)** — **Agent X: AI Prompting Challenge** (Microsoft)  
+- **5th Place (out of 5,000)** — **Agent X: AI Challenge** (Microsoft)  
   Recognized for innovative prompt engineering and practical AI integration.
 
 ---
@@ -32,7 +32,7 @@ Self-motivated Computer Science undergraduate at Daffodil International Universi
 ## 📱 Projects
 
 ### **MAYA AI – Mental Health Assistant**
-*Flutter, Gemini Pro API, Firebase, AI-assisted Development*  
+*Flutter, Gemini Pro API, Firebase*  
 - AI-powered chatbot for mental health support and empathetic conversation
 - Google and email authentication, modern ChatGPT-style UI
 - [Preview](https://sites.google.com/view/hr-jesan/maya-ai) | [GitHub](https://github.com/Jesan-Sikder/MAYA)
@@ -40,21 +40,22 @@ Self-motivated Computer Science undergraduate at Daffodil International Universi
 ---
 
 ### **Academicx TSK – Smart Academic Task Manager**
-*Android (Kotlin), Firebase, AI-assisted*  
+*Android (Kotlin), Firebase*  
 - Task management, deadline reminders, Google sign-in, AI-driven planning
-- [Preview](https://sites.google.com/view/hr-jesan/acamedicx-tsk) | [GitHub](https://github.com/Jesan-Sikder/Academicx-TSK)
+- [Preview](https://sites.google.com/view/hr-jesan/acamedicx-tsk) | [GitHub](https://github.com/Jesan-Sikder/Academicx-TSK)| [Play Store](https://play.google.com/store/apps/dev?id=8746583239549526446)
+
 
 ---
 
 ### **Employee Payroll Management System**
-*Java (OOP, MVC), AI-assisted*  
+*Java (OOP, MVC)*  
 - Modular design: Employee, Payroll, Authentication, Tax, Reporting
 - [Preview](https://sites.google.com/view/hr-jesan/employee-payroll-management-system) | [GitHub](https://github.com/Jesan-Sikder/EMPLOYEE-PAYROLL-MANAGEMENT-SYSTEM-BY-JAVA)
 
 ---
 
 ### **Living Eco Hotel Management System**
-*C (DSA), Console App, AI-assisted*  
+*C (DSA), Console App*  
 - Staff/admin booking, billing, check-in/out, secure login, real-time status
 - [Preview](https://sites.google.com/view/hr-jesan/living-eco-hotel-management-system) | [GitHub](https://github.com/Jesan-Sikder/HOTEL-MANAGEMENT-SYSTEM-BY-C)
 
